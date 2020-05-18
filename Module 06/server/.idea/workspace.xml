@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f314d10-19bb-4134-aa44-f257b3df272d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../client/client/client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 04/2020-05-08/FileWriterLib/src/main/java/edu/neumont/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module 04/2020-05-08/FileWriterLib/src/main/java/edu/neumont/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 04/2020-05-08/FileWriterLib/src/main/java/edu/neumont/ISerializable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module 04/2020-05-08/FileWriterLib/src/main/java/edu/neumont/ISerializable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 04/2020-05-08/FileWriterLib/src/test/java/edu/neumont/DatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module 04/2020-05-08/FileWriterLib/src/test/java/edu/neumont/DatabaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 04/2020-05-08/FileWriterLib/src/test/java/edu/neumont/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module 04/2020-05-08/FileWriterLib/src/test/java/edu/neumont/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 04/2020-05-08/FileWriterLib/target/classes/edu/neumont/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module 04/2020-05-08/FileWriterLib/target/classes/edu/neumont/Database.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 04/2020-05-08/FileWriterLib/target/classes/edu/neumont/ISerializable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module 04/2020-05-08/FileWriterLib/target/classes/edu/neumont/ISerializable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 04/2020-05-08/FileWriterLib/target/test-classes/edu/neumont/DatabaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module 04/2020-05-08/FileWriterLib/target/test-classes/edu/neumont/DatabaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 04/2020-05-08/FileWriterLib/target/test-classes/edu/neumont/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module 04/2020-05-08/FileWriterLib/target/test-classes/edu/neumont/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 05/FilterAndSort/src/main/java/edu/neumont/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module 05/FilterAndSort/src/main/java/edu/neumont/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 05/FilterAndSort/src/main/java/edu/neumont/PredicateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module 05/FilterAndSort/src/main/java/edu/neumont/PredicateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 05/FilterAndSort/src/main/java/edu/neumont/models/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module 05/FilterAndSort/src/main/java/edu/neumont/models/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 05/FilterAndSort/target/classes/edu/neumont/Exercise3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module 05/FilterAndSort/target/classes/edu/neumont/Exercise3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 05/FilterAndSort/target/classes/edu/neumont/models/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module 05/FilterAndSort/target/classes/edu/neumont/models/Person.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Repos\CSC180 - Java\github\Module 06\server\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="14" />
+        <option name="vmOptionsForImporter" value="-Xmx1024m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1c5oZcvq0wXviS6AyehTkN58KOZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.neumont.Server" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neumont.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f314d10-19bb-4134-aa44-f257b3df272d" name="Default Changelist" comment="" />
+      <created>1589827871193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589827871193</updated>
+      <workItem from="1589827874461" duration="1529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1589828576138">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@-1920.0.1920.1050" timestamp="1589828576138" />
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1589828391939" />
+    <state width="1877" height="264" key="GridCell.Tab.0.center" timestamp="1589828576138">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@-1920.0.1920.1050" timestamp="1589828576138" />
+    <state width="1877" height="264" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1589828391939" />
+    <state width="1877" height="264" key="GridCell.Tab.0.left" timestamp="1589828576137">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@-1920.0.1920.1050" timestamp="1589828576137" />
+    <state width="1877" height="264" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1589828391938" />
+    <state width="1877" height="264" key="GridCell.Tab.0.right" timestamp="1589828576138">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@-1920.0.1920.1050" timestamp="1589828576138" />
+    <state width="1877" height="264" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1589828391939" />
+  </component>
+</project>
