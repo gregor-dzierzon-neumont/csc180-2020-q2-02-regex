@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9415cb6a-97ef-4fd6-85a3-a6946176ccb9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../server/server.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Module 04/2020-05-08/FileWriterLib/src/main/java/edu/neumont/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 04/2020-05-08/FileWriterLib/src/main/java/edu/neumont/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Module 04/2020-05-08/FileWriterLib/src/main/java/edu/neumont/ISerializable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 04/2020-05-08/FileWriterLib/src/main/java/edu/neumont/ISerializable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Module 04/2020-05-08/FileWriterLib/src/test/java/edu/neumont/DatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 04/2020-05-08/FileWriterLib/src/test/java/edu/neumont/DatabaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Module 04/2020-05-08/FileWriterLib/src/test/java/edu/neumont/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 04/2020-05-08/FileWriterLib/src/test/java/edu/neumont/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Module 04/2020-05-08/FileWriterLib/target/classes/edu/neumont/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 04/2020-05-08/FileWriterLib/target/classes/edu/neumont/Database.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Module 04/2020-05-08/FileWriterLib/target/classes/edu/neumont/ISerializable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 04/2020-05-08/FileWriterLib/target/classes/edu/neumont/ISerializable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Module 04/2020-05-08/FileWriterLib/target/test-classes/edu/neumont/DatabaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 04/2020-05-08/FileWriterLib/target/test-classes/edu/neumont/DatabaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Module 04/2020-05-08/FileWriterLib/target/test-classes/edu/neumont/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 04/2020-05-08/FileWriterLib/target/test-classes/edu/neumont/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Module 05/FilterAndSort/src/main/java/edu/neumont/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 05/FilterAndSort/src/main/java/edu/neumont/Exercise3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Module 05/FilterAndSort/src/main/java/edu/neumont/PredicateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 05/FilterAndSort/src/main/java/edu/neumont/PredicateDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Module 05/FilterAndSort/src/main/java/edu/neumont/models/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 05/FilterAndSort/src/main/java/edu/neumont/models/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Module 05/FilterAndSort/target/classes/edu/neumont/Exercise3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 05/FilterAndSort/target/classes/edu/neumont/Exercise3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Module 05/FilterAndSort/target/classes/edu/neumont/models/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 05/FilterAndSort/target/classes/edu/neumont/models/Person.class" afterDir="false" />
-    </list>
+    <list default="true" id="9415cb6a-97ef-4fd6-85a3-a6946176ccb9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589828056329</updated>
-      <workItem from="1589828065243" duration="1336000" />
+      <workItem from="1589828065243" duration="1369000" />
     </task>
     <servers />
   </component>
@@ -100,32 +84,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1589828746619">
+    <state width="1340" height="264" key="GridCell.Tab.0.bottom" timestamp="1589829825420">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1589828746619" />
-    <state width="1877" height="264" key="GridCell.Tab.0.center" timestamp="1589828746619">
+    <state width="1340" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1589829825420" />
+    <state width="1340" height="264" key="GridCell.Tab.0.center" timestamp="1589829825420">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="264" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1589828746619" />
-    <state width="1877" height="264" key="GridCell.Tab.0.left" timestamp="1589828746619">
+    <state width="1340" height="264" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1589829825420" />
+    <state width="1340" height="264" key="GridCell.Tab.0.left" timestamp="1589829825420">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="264" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1589828746619" />
-    <state width="1877" height="264" key="GridCell.Tab.0.right" timestamp="1589828746619">
+    <state width="1340" height="264" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1589829825420" />
+    <state width="1340" height="264" key="GridCell.Tab.0.right" timestamp="1589829825420">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="264" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1589828746619" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/edu/neumont/Client.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1340" height="264" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1589829825420" />
   </component>
 </project>
