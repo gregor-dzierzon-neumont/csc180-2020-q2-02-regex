@@ -6,7 +6,7 @@ import java.util.List;
 
 public interface IApi<T extends DtoBase>
 {
-    List<T> getAll(String url);
+    List<T> getAll();
     List<T> getPage(String url);
-    List<T> get(String url);
+    T get(String url);
 }
