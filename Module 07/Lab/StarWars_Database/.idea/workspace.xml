@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bd6f979-d34a-4d08-9551-4316e061eecb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../StarWars_API/.idea/StarWars_API.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWars_API/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWars_API/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWars_Common/.idea/StarWars_Common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWars_Common/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWars_Common/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StarWars_Database.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_scripts/create_tables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neumont/DaoBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neumont/PersonDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neumont/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neumont/ProgramTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWars_UI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWars_UI/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWars_UI/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWars_UI/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWars_UI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWars_UI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWars_UI/StarWars_UI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWars_UI/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWars_UI/src/main/java/edu/neumont/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWars_UI/src/main/java/edu/neumont/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWars_UI/src/test/java/edu/neumont/ProgramTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 06/client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 06/client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 06/server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 06/server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_API/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_API/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/StarWars_API-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_API/target/StarWars_API-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/classes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/classes/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/classes/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/classes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/classes/StarWars_API.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/classes/edu/neumont/PersonApiTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_API/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_API/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_Common/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_Common/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_Common/src/main/java/edu/neumont/dtos/DtoBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_Common/src/main/java/edu/neumont/dtos/DtoBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_Common/target/StarWars_Common-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_Common/target/StarWars_Common-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_Common/target/classes/edu/neumont/dtos/DtoBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_Common/target/classes/edu/neumont/dtos/DtoBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_Common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_Common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StarWars_Common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_Common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="demo@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="demo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="demo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="demo: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="demo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="demo: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="demo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="demo: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="demo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="demo: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="person: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="c7d3b17d-3f9b-4b02-bcb2-d1656ce13f62">
+        <node key="demo">
+          <node key="public" />
+        </node>
+      </node>
+    </checked>
+    <expanded>
+      <node key="c7d3b17d-3f9b-4b02-bcb2-d1656ce13f62">
+        <node key="demo" />
+      </node>
+    </expanded>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Repos\CSC180 - Java\github\Module 07\Lab\StarWars_Database\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="14" />
+        <option name="vmOptionsForImporter" value="-Xmx1024m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cGe3euWJafsysQ3ZnFQ4mSC3p0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StarWars_Common/target/StarWars_Common-1.0.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bd6f979-d34a-4d08-9551-4316e061eecb" name="Default Changelist" comment="" />
+      <created>1590159159595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590159159595</updated>
+      <workItem from="1590159163645" duration="1209000" />
+      <workItem from="1590160429501" duration="1816000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="183" key="#SQL_Dialects" timestamp="1590159294824">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#SQL_Dialects/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590159294824" />
+    <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590159814827">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590159814827" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1590162011240">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590162011240" />
+    <state x="640" y="252" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1590160294559">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="252" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590160294559" />
+    <state x="758" y="186" key="ExecutionTargetDialog" timestamp="1590160437644">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="758" y="186" key="ExecutionTargetDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590160437644" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1590161907736">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590161907736" />
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1590159751262">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590159751262" />
+    <state width="1877" height="264" key="GridCell.Tab.0.center" timestamp="1590159751261">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590159751261" />
+    <state width="1877" height="264" key="GridCell.Tab.0.left" timestamp="1590159751261">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590159751261" />
+    <state width="1877" height="264" key="GridCell.Tab.0.right" timestamp="1590159751262">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590159751262" />
+    <state width="200" height="539" key="HiddenNamespacesPopup" timestamp="1590159379581">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="200" height="539" key="HiddenNamespacesPopup/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590159379581" />
+    <state x="490" y="179" key="Maven.ArtifactSearchDialog" timestamp="1590160711907">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="490" y="179" key="Maven.ArtifactSearchDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590160711907" />
+    <state x="440" y="99" key="SettingsEditor" timestamp="1590161911948">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="440" y="99" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590161911948" />
+    <state x="821" y="258" width="286" height="533" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1590159361300">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="821" y="258" width="286" height="533" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590159361300" />
+  </component>
+</project>

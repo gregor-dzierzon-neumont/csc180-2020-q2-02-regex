@@ -16,7 +16,8 @@ public abstract class DtoBase
 
     public String getId()
     {
-        return url;
+        String[] parts = url.split("/");
+        return parts[parts.length - 1];
     }
 
     public String getUrl()
