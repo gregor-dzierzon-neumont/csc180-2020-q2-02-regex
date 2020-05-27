@@ -13,8 +13,10 @@ public abstract class DaoBase<T extends DtoBase> implements IRepository<T>
 
     public DaoBase()
     {
+        // creatre a datasource
+        // defines the address  to where we connect
         BasicDataSource dataSource = new BasicDataSource();
-        dataSource.setUrl("jdbc:postgresql://localhost:5432/demo");
+        dataSource.setUrl("jdbc:postgresql://localhost:5432/swapi");
         dataSource.setUsername("postgres");
         dataSource.setPassword("postgres1");
 

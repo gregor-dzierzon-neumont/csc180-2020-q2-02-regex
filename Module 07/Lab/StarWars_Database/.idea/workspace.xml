@@ -2,39 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bd6f979-d34a-4d08-9551-4316e061eecb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../DB_Hibernate/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DB_Hibernate/DB_Hibernate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DB_Hibernate/src/main/java/edu/neumont/data/entities/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DB_Hibernate/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DB_Hibernate/src/test/java/edu/neumont/data/entities/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarWars_API/src/main/java/edu/neumont/models/PlanetResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StarWars_API/src/test/java/edu/neumont/PlanetApiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_API/src/main/java/edu/neumont/ApiBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_API/src/main/java/edu/neumont/ApiBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_API/src/main/java/edu/neumont/PersonApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_API/src/main/java/edu/neumont/PersonApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_API/src/main/java/edu/neumont/PlanetApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_API/src/main/java/edu/neumont/PlanetApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/classes/edu/neumont/ApiBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/classes/edu/neumont/PersonApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/classes/edu/neumont/PlanetApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/classes/edu/neumont/models/PeopleResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/classes/edu/neumont/models/ResponseBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_API/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_API/target/test-classes/edu/neumont/PersonApiTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_Common/src/main/java/edu/neumont/dtos/DtoBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_Common/src/main/java/edu/neumont/dtos/DtoBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_Common/src/main/java/edu/neumont/dtos/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_Common/src/main/java/edu/neumont/dtos/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_Common/src/main/java/edu/neumont/dtos/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_Common/src/main/java/edu/neumont/dtos/Planet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_Common/target/StarWars_Common-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_Common/target/StarWars_Common-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_Common/target/classes/edu/neumont/dtos/DtoBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_Common/target/classes/edu/neumont/dtos/DtoBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_Common/target/classes/edu/neumont/dtos/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_Common/target/classes/edu/neumont/dtos/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_Common/target/classes/edu/neumont/dtos/Planet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_Common/target/classes/edu/neumont/dtos/Planet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_Common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_Common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/neumont/PersonDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_scripts/create_tables.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db_scripts/create_tables.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neumont/DaoBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neumont/DaoBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/neumont/PersonDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/neumont/PersonDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_UI/src/main/java/edu/neumont/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_UI/src/main/java/edu/neumont/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_UI/target/classes/edu/neumont/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/../StarWars_UI/target/classes/edu/neumont/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StarWars_UI/target/classes/edu/neumont/Program.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,39 +31,39 @@
     <expand>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="demo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="swapi@localhost" type="feb32156:DbDataSourceImpl" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="demo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="swapi@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="demo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="swapi@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="demo: database" type="162271b6:PgImplModel$Database" />
+        <item name="swapi: database" type="162271b6:PgImplModel$Database" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="demo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="swapi@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="demo: database" type="162271b6:PgImplModel$Database" />
+        <item name="swapi: database" type="162271b6:PgImplModel$Database" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="demo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="swapi@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="demo: database" type="162271b6:PgImplModel$Database" />
+        <item name="swapi: database" type="162271b6:PgImplModel$Database" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="demo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="swapi@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="demo: database" type="162271b6:PgImplModel$Database" />
+        <item name="swapi: database" type="162271b6:PgImplModel$Database" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
         <item name="person: table" type="69fad909:PgImplModel$LocalTable" />
@@ -100,15 +73,15 @@
   </component>
   <component name="ExecutionTargetDialog">
     <checked>
-      <node key="c7d3b17d-3f9b-4b02-bcb2-d1656ce13f62">
-        <node key="demo">
+      <node key="085f9311-b27c-4d2a-a0d9-078142dfe1d9">
+        <node key="swapi">
           <node key="public" />
         </node>
       </node>
     </checked>
     <expanded>
-      <node key="c7d3b17d-3f9b-4b02-bcb2-d1656ce13f62">
-        <node key="demo" />
+      <node key="085f9311-b27c-4d2a-a0d9-078142dfe1d9">
+        <node key="swapi" />
       </node>
     </expanded>
   </component>
@@ -116,6 +89,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -154,7 +128,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StarWars_Common/target/StarWars_Common-1.0.jar!/" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -167,6 +143,82 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.neumont" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PersonDaoTest.get">
+    <configuration name="PersonDaoTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StarWars_Database" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neumont.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.neumont" />
+      <option name="MAIN_CLASS_NAME" value="edu.neumont.PersonDaoTest" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonDaoTest.should_get_all_people" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StarWars_Database" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neumont.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.neumont" />
+      <option name="MAIN_CLASS_NAME" value="edu.neumont.PersonDaoTest" />
+      <option name="METHOD_NAME" value="should_get_all_people" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PersonDaoTest.get" />
+        <item itemvalue="JUnit.PersonDaoTest.should_get_all_people" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.17207792" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="swapi@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="swapi@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@fe9a849" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="swapi@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@718bcb34" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -182,6 +234,7 @@
       <workItem from="1590160429501" duration="3036000" />
       <workItem from="1590511633272" duration="2607000" />
       <workItem from="1590593877802" duration="195000" />
+      <workItem from="1590608423485" duration="4130000" />
     </task>
     <servers />
   </component>
@@ -193,9 +246,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="183" key="#SQL_Dialects/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590159294824" />
-    <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590159814827">
+    <state x="196" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590609447963">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="196" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1590609447963" />
     <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590159814827" />
     <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1590162011240">
       <screen x="0" y="0" width="1920" height="1050" />
@@ -205,47 +259,60 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="640" y="252" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590160294559" />
-    <state x="758" y="186" key="ExecutionTargetDialog" timestamp="1590160437644">
+    <state x="758" y="186" key="ExecutionTargetDialog" timestamp="1590609964466">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="758" y="186" key="ExecutionTargetDialog/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1590609964466" />
     <state x="758" y="186" key="ExecutionTargetDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590160437644" />
-    <state x="-1180" y="279" key="FileChooserDialogImpl" timestamp="1590511735300">
-      <screen x="-1920" y="0" width="1920" height="1050" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1590611078246">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1590611078246" />
     <state x="-1180" y="279" key="FileChooserDialogImpl/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1590511735300" />
     <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590161907736" />
-    <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1590159751262">
+    <state width="1877" height="174" key="GridCell.Tab.0.bottom" timestamp="1590612393070">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="174" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1590612393070" />
     <state width="1877" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590159751262" />
-    <state width="1877" height="264" key="GridCell.Tab.0.center" timestamp="1590159751261">
+    <state width="1877" height="174" key="GridCell.Tab.0.center" timestamp="1590612393070">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="174" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1590612393070" />
     <state width="1877" height="264" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590159751261" />
-    <state width="1877" height="264" key="GridCell.Tab.0.left" timestamp="1590159751261">
+    <state width="1877" height="174" key="GridCell.Tab.0.left" timestamp="1590612393070">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="174" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1590612393070" />
     <state width="1877" height="264" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590159751261" />
-    <state width="1877" height="264" key="GridCell.Tab.0.right" timestamp="1590159751262">
+    <state width="1877" height="174" key="GridCell.Tab.0.right" timestamp="1590612393070">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="174" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1590612393070" />
     <state width="1877" height="264" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590159751262" />
-    <state width="200" height="539" key="HiddenNamespacesPopup" timestamp="1590159379581">
+    <state width="200" height="539" key="HiddenNamespacesPopup" timestamp="1590609266528">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="200" height="539" key="HiddenNamespacesPopup/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1590609266528" />
     <state width="200" height="539" key="HiddenNamespacesPopup/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590159379581" />
     <state x="490" y="179" key="Maven.ArtifactSearchDialog" timestamp="1590160711907">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="490" y="179" key="Maven.ArtifactSearchDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590160711907" />
-    <state x="440" y="99" key="SettingsEditor" timestamp="1590161911948">
+    <state x="440" y="99" key="SettingsEditor" timestamp="1590611079200">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="440" y="99" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1590611079200" />
     <state x="440" y="99" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590161911948" />
-    <state x="821" y="258" width="286" height="533" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1590159361300">
+    <state x="821" y="258" width="286" height="533" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1590609168854">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="821" y="258" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1590609168854" />
     <state x="821" y="258" width="286" height="533" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1590159361300" />
+    <state x="731" y="216" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590612329834">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="731" y="216" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050/-1920.0.1920.1050/1920.0.1440.870@0.0.1920.1050" timestamp="1590612329834" />
     <state x="-1578" y="131" key="new project wizard" timestamp="1590511787172">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
