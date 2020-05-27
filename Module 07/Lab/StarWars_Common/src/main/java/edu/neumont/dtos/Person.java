@@ -14,6 +14,7 @@ public class Person extends DtoBase
     String birth_year;
     String gender;
     String homeworld;
+    List<String> films;
     List<String> species;
     List<String> vehicles;
     List<String> starships;
@@ -98,6 +99,16 @@ public class Person extends DtoBase
     public void setHomeworld(String homeworld)
     {
         this.homeworld = homeworld;
+    }
+
+    public List<String> getFilms()
+    {
+        return films;
+    }
+
+    public void setFilms(List<String> films)
+    {
+        this.films = films;
     }
 
     public List<String> getSpecies()

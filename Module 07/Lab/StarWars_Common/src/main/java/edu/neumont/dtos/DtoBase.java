@@ -10,7 +10,6 @@ public abstract class DtoBase
     String name;
     String created;
     String edited;
-    List<String> films;
 
     public DtoBase(){}
 
@@ -58,15 +57,5 @@ public abstract class DtoBase
     public void setEdited(String edited)
     {
         this.edited = edited;
-    }
-
-    public List<String> getFilms()
-    {
-        return films;
-    }
-
-    public void setFilms(List<String> films)
-    {
-        this.films = films;
     }
 }

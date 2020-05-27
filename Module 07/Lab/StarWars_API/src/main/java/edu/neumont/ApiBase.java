@@ -15,10 +15,11 @@ public abstract class ApiBase<T extends DtoBase> implements IApi<T>
 
     protected String call(String url) throws IOException, InterruptedException
     {
+        String theUrl = url.replace("http://", "https://");
         HttpClient client = HttpClient.newHttpClient();
 
         HttpRequest request = HttpRequest.newBuilder()
-                .uri(URI.create(url))
+                .uri(URI.create(theUrl))
                 .build();
 
         HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());

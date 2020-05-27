@@ -29,8 +29,7 @@ public class PersonApi extends ApiBase<Person>
 
             while(response.getNext() != null)
             {
-                String nextUrl = response.getNext().replace("http://", "https://");
-                responseString = call(nextUrl);
+                responseString = call(response.getNext());
                 response = mapper.readValue(responseString, PeopleResponse.class);
                 peopleArray = response.getResults();
                 people.addAll(Arrays.asList(peopleArray));
@@ -51,7 +50,6 @@ public class PersonApi extends ApiBase<Person>
         List<Person> people = new ArrayList<>();
         try
         {
-            page = page.replace("http://", "https://");
             String responseString = call(page);
             ObjectMapper mapper = new ObjectMapper();
             PeopleResponse response = mapper.readValue(responseString, PeopleResponse.class);
