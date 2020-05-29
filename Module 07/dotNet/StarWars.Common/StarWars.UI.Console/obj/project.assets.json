@@ -1,0 +1,159 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "StarWars.Api/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "StarWars.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/StarWars.Api.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StarWars.Api.dll": {}
+        }
+      },
+      "StarWars.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/StarWars.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StarWars.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "StarWars.Api/1.0.0": {
+      "type": "project",
+      "path": "../StarWars.Api/StarWars.Api.csproj",
+      "msbuildProject": "../StarWars.Api/StarWars.Api.csproj"
+    },
+    "StarWars.Common/1.0.0": {
+      "type": "project",
+      "path": "../StarWars.Common/StarWars.Common.csproj",
+      "msbuildProject": "../StarWars.Common/StarWars.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "StarWars.Api >= 1.0.0",
+      "StarWars.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\grego\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Repos\\CSC180 - Java\\github\\Module 07\\dotNet\\StarWars.Common\\StarWars.UI.Console\\StarWars.UI.Console.csproj",
+      "projectName": "StarWars.UI.Console",
+      "projectPath": "C:\\Repos\\CSC180 - Java\\github\\Module 07\\dotNet\\StarWars.Common\\StarWars.UI.Console\\StarWars.UI.Console.csproj",
+      "packagesPath": "C:\\Users\\grego\\.nuget\\packages\\",
+      "outputPath": "C:\\Repos\\CSC180 - Java\\github\\Module 07\\dotNet\\StarWars.Common\\StarWars.UI.Console\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\grego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/cricut/auth/8a447406-9675-4335-a769-0039d2211903/api/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Repos\\CSC180 - Java\\github\\Module 07\\dotNet\\StarWars.Common\\StarWars.Api\\StarWars.Api.csproj": {
+              "projectPath": "C:\\Repos\\CSC180 - Java\\github\\Module 07\\dotNet\\StarWars.Common\\StarWars.Api\\StarWars.Api.csproj"
+            },
+            "C:\\Repos\\CSC180 - Java\\github\\Module 07\\dotNet\\StarWars.Common\\StarWars.Common\\StarWars.Common.csproj": {
+              "projectPath": "C:\\Repos\\CSC180 - Java\\github\\Module 07\\dotNet\\StarWars.Common\\StarWars.Common\\StarWars.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

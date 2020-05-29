@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4c8b47c6_002Ddfa7_002D4ea9_002Db9f3_002Db0680b7a60d1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="should_get_all_people #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::46BF57A0-88D2-46E6-A676-E9FB78042579::.NETCoreApp,Version=v3.1::StarWars.Api.Test.PersonApiTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=640ef7f7_002De163_002D473e_002Da971_002De9dc9c0c06b8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="should_get_all_people" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::46BF57A0-88D2-46E6-A676-E9FB78042579::.NETCoreApp,Version=v3.1::StarWars.Api.Test.PersonApiTests.should_get_all_people&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
