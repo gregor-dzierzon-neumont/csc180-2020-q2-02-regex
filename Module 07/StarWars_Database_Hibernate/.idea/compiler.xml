@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="DB_Hibernate" />
+        <module name="StarWars_Database_Hibernate" />
       </profile>
     </annotationProcessing>
   </component>

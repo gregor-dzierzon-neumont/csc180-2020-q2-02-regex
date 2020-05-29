@@ -1,3 +1,6 @@
+drop table IF EXISTS planet_residents;
+drop table IF EXISTS person;
+drop table IF EXISTS planet;
 
 create table person
 (

@@ -8,7 +8,6 @@ import java.util.List;
 
 public class PersonDao extends DaoBase<Person>
 {
-
     @Override
     public List<Person> get()
     {
@@ -31,15 +30,30 @@ public class PersonDao extends DaoBase<Person>
         SqlRowSet rows = jdbcTemplate.queryForRowSet(query);
 
         while(rows.next()){
-            Person person = new Person();
-            //populate
-            person.setUrl(rows.getString(1));
-            person.setName(rows.getString(2));
-
+            Person person = mapPersonFromRow(rows);
             people.add(person);
         }
 
         return people;
+    }
+
+    private Person mapPersonFromRow(SqlRowSet rows)
+    {
+        Person person = new Person();
+        //populate
+        person.setUrl(rows.getString("url"));
+        person.setName(rows.getString("name"));
+        person.setHeight(rows.getString("height"));
+        person.setMass(rows.getString("mass"));
+        person.setHair_color(rows.getString("hair_color"));
+        person.setSkin_color(rows.getString("skin_color"));
+        person.setEye_color(rows.getString("eye_color"));
+        person.setBirth_year(rows.getString("birth_year"));
+        person.setGender(rows.getString("gender"));
+        person.setHomeworld(rows.getString("homeworld"));
+        person.setCreated(rows.getString("created"));
+        person.setEdited(rows.getString("edited"));
+        return person;
     }
 
     @Override
@@ -61,15 +75,13 @@ public class PersonDao extends DaoBase<Person>
                 " created, " +
                 " edited " +
                 "FROM person " +
-                "WHERE url = '" + id + "';";
+                "WHERE url = ?;";
 
-        SqlRowSet rows = jdbcTemplate.queryForRowSet(query);
+        // query is now a prepared statement
+        SqlRowSet rows = jdbcTemplate.queryForRowSet(query, id);
 
         if(rows.next()){
-            person = new Person();
-            //populate
-            person.setUrl(rows.getString(1));
-            person.setName(rows.getString(2));
+            person = mapPersonFromRow(rows);
         }
 
         return person;
@@ -93,31 +105,38 @@ public class PersonDao extends DaoBase<Person>
                 " created, " +
                 " edited " +
                 ") " +
-                "VALUES ( " +
-                "'" + person.getUrl() + "'" +
-                "'" + person.getName() + "'" +
-                "'" + person.getHeight() + "'" +
-                "'" + person.getMass() + "'" +
-                "'" + person.getHair_color() + "'" +
-                "'" + person.getSkin_color() + "'" +
-                "'" + person.getEye_color() + "'" +
-                "'" + person.getBirth_year() + "'" +
-                "'" + person.getGender() + "'" +
-                "'" + person.getHomeworld() + "'" +
-                "'" + person.getCreated() + "'" +
-                "'" + person.getEdited() + "'" +
-                ");";
+                "VALUES (?,?,?,?,?,?,?,?,?,?,?,?); ";
 
-        jdbcTemplate.update(query);
+        jdbcTemplate.update(query
+                , person.getUrl()
+                , person.getName()
+                , person.getHeight()
+                , person.getMass()
+                , person.getHair_color()
+                , person.getSkin_color()
+                , person.getEye_color()
+                , person.getBirth_year()
+                , person.getGender()
+                , person.getHomeworld()
+                , person.getCreated()
+                , person.getEdited()
+        );
     }
 
     @Override
-    public void update(String id, Person target)
+    public void update(String id, Person person)
     {
-        //define the query
-        String query = "UPDATE person ";
+        // define the query
+        // make sure that you update all required fields
+        String query = "UPDATE person " +
+                "SET name = ?," +
+                " height = ? " +
+                "WHERE url = ? ";
 
-        jdbcTemplate.update(query);
+        jdbcTemplate.update(query,
+                person.getName(),
+                person.getHeight(),
+                id);
 
     }
 
@@ -125,9 +144,10 @@ public class PersonDao extends DaoBase<Person>
     public void delete(String id)
     {
         //define the query
-        String query = "";
+        String query = "DELETE FROM person " +
+                "WHERE url = ?";
 
-        jdbcTemplate.update(query);
+        jdbcTemplate.update(query, id);
 
     }
 }
