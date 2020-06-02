@@ -1,18 +1,28 @@
 package edu.neumont.dao;
 
+import edu.neumont.models.Customer;
 import org.springframework.jdbc.support.rowset.SqlRowSet;
 
 public class CustomerDao extends DaoBase
 {
-    public void GetCustomerOrders()
+    public Customer GetCustomer(int id)
     {
-        String query = "";
+        Customer customer = null;
 
-        SqlRowSet rows = jdbcTemplate.queryForRowSet(query);
+        String query = "SELECT customerid " +
+                " , companyname " +
+                "FROM customers " +
+                "WHERE customerid = ?";
 
-        while(rows.next())
+        SqlRowSet rows = jdbcTemplate.queryForRowSet(query, id);
+
+        if(rows.next())
         {
-            // do something with the row
+            customer = new Customer();
+            customer.setCustomerId(rows.getInt("customerid"));
+            customer.setCompanyName(rows.getString("companyname"));
         }
+
+        return customer;
     }
 }

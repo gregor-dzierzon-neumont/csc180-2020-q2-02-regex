@@ -7,5 +7,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/northwind</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="ehr@localhost" uuid="0ba016cc-3fea-4e1b-8322-270c2bb113fa">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/ehr</jdbc-url>
+    </data-source>
   </component>
 </project>
