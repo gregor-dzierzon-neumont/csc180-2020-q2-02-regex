@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ff9ff87-1704-465e-8eff-ebb43765521c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="14" />
+        <option name="vmOptionsForImporter" value="-Xmx1024m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aGxqK8H7ghh09zkGt8WuyraiGf" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ff9ff87-1704-465e-8eff-ebb43765521c" name="Default Changelist" comment="" />
+      <created>1586375920560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586375920560</updated>
+      <workItem from="1586375923882" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="285" key="GridCell.Tab.0.bottom" timestamp="1586375995494">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1586375995494" />
+    <state width="1878" height="285" key="GridCell.Tab.0.center" timestamp="1586375995494">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1586375995494" />
+    <state width="1878" height="285" key="GridCell.Tab.0.left" timestamp="1586375995494">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1586375995494" />
+    <state width="1878" height="285" key="GridCell.Tab.0.right" timestamp="1586375995494">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1586375995494" />
+  </component>
+</project>

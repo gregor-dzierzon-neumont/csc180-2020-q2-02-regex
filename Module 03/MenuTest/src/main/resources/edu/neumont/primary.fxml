@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.TextArea?>
+<BorderPane xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.neumont.PrimaryController">
+   <top>
+      <MenuBar>
+         <Menu fx:id="fileMenu" text="File">
+            <MenuItem text="New" onAction="#newFileClick"/>
+         </Menu>
+      </MenuBar>
+   </top>
+   <center>
+      <TextArea fx:id="textArea" />
+   </center>
+</BorderPane>

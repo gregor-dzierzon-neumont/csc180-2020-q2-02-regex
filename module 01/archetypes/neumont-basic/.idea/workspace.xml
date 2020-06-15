@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9aa4ed9d-e1c6-48a6-8c69-ba3e6026b3ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1a2SLV6OF7awuX4wZz2z1rJMGoV" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test/arch-project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Repos\CS180 2020 Q2 - Java\module 01\archetypes\neumont-basic\src\main\resources\META-INF\maven" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
+      <module name="neumont-basic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9aa4ed9d-e1c6-48a6-8c69-ba3e6026b3ba" name="Default Changelist" comment="" />
+      <created>1585932139212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585932139212</updated>
+      <workItem from="1585932144674" duration="2274000" />
+      <workItem from="1585936862367" duration="1130000" />
+      <workItem from="1586364605654" duration="2869000" />
+      <workItem from="1586374582700" duration="2439000" />
+      <workItem from="1586449249315" duration="1155000" />
+      <workItem from="1586540261745" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="976" y="381" key="FileChooserDialogImpl" timestamp="1586366125983">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="976" y="381" key="FileChooserDialogImpl/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1586366125983" />
+    <state width="1878" height="293" key="GridCell.Tab.0.bottom" timestamp="1586376232616">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1586376232616" />
+    <state width="1878" height="293" key="GridCell.Tab.0.center" timestamp="1586376232615">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="293" key="GridCell.Tab.0.center/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1586376232615" />
+    <state width="1878" height="293" key="GridCell.Tab.0.left" timestamp="1586376232615">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="293" key="GridCell.Tab.0.left/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1586376232615" />
+    <state width="1878" height="293" key="GridCell.Tab.0.right" timestamp="1586376232615">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="293" key="GridCell.Tab.0.right/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1586376232615" />
+    <state x="440" y="228" key="Maven.ArtifactSearchDialog" timestamp="1586449804932">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="440" y="228" key="Maven.ArtifactSearchDialog/-3840.12.1920.1050/-717.2172.1440.870/0.0.1920.1050@0.0.1920.1050" timestamp="1586449804932" />
+    <state x="-3400" y="240" key="Maven.ArtifactSearchDialog/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@-3840.12.1920.1050" timestamp="1585933996760" />
+    <state x="-3108" y="255" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585938241025">
+      <screen x="-3840" y="12" width="1920" height="1050" />
+    </state>
+    <state x="-3108" y="255" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@-3840.12.1920.1050" timestamp="1585938241025" />
+    <state x="283" y="127" key="new project wizard" timestamp="1586376423722">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-3557" y="139" key="new project wizard/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@-3840.12.1920.1050" timestamp="1585938438528" />
+    <state x="283" y="127" key="new project wizard/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1586376423722" />
+  </component>
+</project>

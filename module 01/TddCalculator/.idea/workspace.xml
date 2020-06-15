@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e691df6e-67f7-4e72-ae2a-7b0352d1441b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="14" />
+        <option name="vmOptionsForImporter" value="-Xmx4096m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1a2ovCzWx3bAOAqJn2V7KvFKxYX" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../archetypes/neumont-basic" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.neumont.cs180.dzierzon.gregor" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.neumont.cs180.dzierzon.gregor.Program" />
+      <module name="TddCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neumont.cs180.dzierzon.gregor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TddCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neumont.cs180.dzierzon.gregor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.neumont.cs180.dzierzon.gregor" />
+      <option name="MAIN_CLASS_NAME" value="edu.neumont.cs180.dzierzon.gregor.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.should_add_multiple_numbers_to_answer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TddCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neumont.cs180.dzierzon.gregor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.neumont.cs180.dzierzon.gregor" />
+      <option name="MAIN_CLASS_NAME" value="edu.neumont.cs180.dzierzon.gregor.CalculatorTest" />
+      <option name="METHOD_NAME" value="should_add_multiple_numbers_to_answer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.should_add_number_to_answer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TddCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neumont.cs180.dzierzon.gregor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.neumont.cs180.dzierzon.gregor" />
+      <option name="MAIN_CLASS_NAME" value="edu.neumont.cs180.dzierzon.gregor.CalculatorTest" />
+      <option name="METHOD_NAME" value="should_add_number_to_answer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.CalculatorTest.should_add_multiple_numbers_to_answer" />
+        <item itemvalue="JUnit.CalculatorTest.should_add_number_to_answer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e691df6e-67f7-4e72-ae2a-7b0352d1441b" name="Default Changelist" comment="" />
+      <created>1585943277787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585943277787</updated>
+      <workItem from="1585943279090" duration="2575000" />
+      <workItem from="1585971253608" duration="207000" />
+      <workItem from="1585972865269" duration="13000" />
+      <workItem from="1585972979899" duration="37000" />
+      <workItem from="1585973026418" duration="408000" />
+      <workItem from="1585973444289" duration="1215000" />
+      <workItem from="1585974924765" duration="101000" />
+      <workItem from="1586024545367" duration="33525000" />
+      <workItem from="1586195086507" duration="4879000" />
+      <workItem from="1586364116308" duration="487000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="766" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1586203107251">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-3074" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@-3840.12.1920.1050" timestamp="1586195504820" />
+    <state x="766" y="209" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1586203107251" />
+    <state x="691" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586202752039">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="691" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1586202752039" />
+    <state x="741" y="280" key="FileChooserDialogImpl" timestamp="1586364601898">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="741" y="280" key="FileChooserDialogImpl/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1586364601898" />
+    <state width="1878" height="240" key="GridCell.Tab.0.bottom" timestamp="1586204811564">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1586204811564" />
+    <state width="1878" height="240" key="GridCell.Tab.0.center" timestamp="1586204811564">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="240" key="GridCell.Tab.0.center/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1586204811564" />
+    <state width="1878" height="240" key="GridCell.Tab.0.left" timestamp="1586204811564">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="240" key="GridCell.Tab.0.left/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1586204811564" />
+    <state width="1878" height="240" key="GridCell.Tab.0.right" timestamp="1586204811564">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="240" key="GridCell.Tab.0.right/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1586204811564" />
+    <state width="1878" height="352" key="GridCell.Tab.1.bottom" timestamp="1585962555297">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1585962555297" />
+    <state width="1878" height="352" key="GridCell.Tab.1.center" timestamp="1585962555297">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="352" key="GridCell.Tab.1.center/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1585962555297" />
+    <state width="1878" height="352" key="GridCell.Tab.1.left" timestamp="1585962555297">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="352" key="GridCell.Tab.1.left/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1585962555297" />
+    <state width="1878" height="352" key="GridCell.Tab.1.right" timestamp="1585962555297">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="352" key="GridCell.Tab.1.right/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1585962555297" />
+    <state x="491" y="180" key="Maven.ArtifactSearchDialog" timestamp="1586204563051">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-3349" y="192" key="Maven.ArtifactSearchDialog/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@-3840.12.1920.1050" timestamp="1586195756487" />
+    <state x="491" y="180" key="Maven.ArtifactSearchDialog/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1586204563051" />
+    <state x="462" y="167" key="SettingsEditor" timestamp="1585973421906">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="462" y="167" key="SettingsEditor/0.0.1920.1050/-3840.0.1920.1050@0.0.1920.1050" timestamp="1585973421905" />
+    <state x="720" y="228" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585944364703">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="720" y="228" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1585944364703" />
+    <state x="385" y="220" key="new project wizard" timestamp="1586364128759">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="385" y="220" key="new project wizard/0.0.1920.1050/-3840.0.1920.1050@0.0.1920.1050" timestamp="1586058094376" />
+    <state x="385" y="220" key="new project wizard/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1586364128759" />
+  </component>
+</project>

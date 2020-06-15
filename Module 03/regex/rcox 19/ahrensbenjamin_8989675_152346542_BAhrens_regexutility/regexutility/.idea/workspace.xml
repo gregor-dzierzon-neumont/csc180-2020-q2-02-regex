@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fea791da-43b6-4d83-8e5f-cd17b0fdae7f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="14" />
+        <option name="vmOptionsForImporter" value="-Xmx1024m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aQPCsPQeXIin5llmddd8OaaM6W" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RegexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="regexutility" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="regexutility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="regexutility" />
+      <option name="MAIN_CLASS_NAME" value="regexutility.RegexTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RegexTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fea791da-43b6-4d83-8e5f-cd17b0fdae7f" name="Default Changelist" comment="" />
+      <created>1586664719320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586664719320</updated>
+      <workItem from="1586664722054" duration="1190000" />
+      <workItem from="1586777138681" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="183" key="#Project_Structure" timestamp="1586665086369">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="553" y="183" key="#Project_Structure/-3840.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586665086369" />
+    <state x="491" y="180" key="Maven.ArtifactSearchDialog" timestamp="1586664926278">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="491" y="180" key="Maven.ArtifactSearchDialog/-3840.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1586664926278" />
+    <state x="385" y="220" key="new project wizard" timestamp="1586777213164">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="385" y="220" key="new project wizard/0.0.1920.1050/-3840.12.1920.1050/-717.2172.1440.870@0.0.1920.1050" timestamp="1586777213164" />
+  </component>
+</project>
